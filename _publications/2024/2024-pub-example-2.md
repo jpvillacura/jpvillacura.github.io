@@ -2,7 +2,7 @@
 title:          "A review on Quantum Machine Learning and Quantum Cryptography"
 date:           2024-08-21 00:01:00 +0800
 selected:       false
-pub:            "Memoria Investigaciones en Ingeniería, presented at CLEI 2024."
+pub:            "Memoria Investigaciones en Ingeniería, presented at CLEI "
 pub_date:       "2024"
 semantic_scholar_id:   # use this to retrieve citation count
 abstract: >-
