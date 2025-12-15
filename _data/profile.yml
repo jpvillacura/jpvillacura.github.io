@@ -33,21 +33,23 @@ portrait_caption: >-
 education:
 - name: Universidad Técnica Federico Santa María
   logo: /assets/images/badges/utfsm_logo.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    M. Sc. Computer Engineering
+  position: M. Sc. Computer Engineering
   date: Jan. 2026
 - name: Universidad Técnica Federico Santa María
   logo: /assets/images/badges/utfsm_logo.png
-  position: B.S. in Mechanical Engineering
+  position: B.Sc. in Mechanical Engineering
   date: Jan. 2025
 
 experience:
  - name: Queen's University
-   logo: /assets/images/badges/queens_logo.jpg
+   logo: /assets/images/badges/queens_logo2.jpg
    position: Visiting Researcher Student
    date: Aug. 2025 - Jan. 2026
 
 awards:
-- name: Emerging Leaders in the Americas Program 2025-26 - Global Affairs Canada
+- name: >-
+  Emerging Leaders in the Americas Program 2025-26 - Global Affairs Canada </br>
+  One of the 100 applicants selected from more than 40 countries of Latin America and The Caribbean to support the next generations of Leaders.
+        
+
   date: 2025
