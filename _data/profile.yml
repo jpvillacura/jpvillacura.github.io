@@ -1,6 +1,6 @@
 primary_name: "Jean-Pierre Villacura"
 secondary_name: ""
-navbar_name: "Villacura"
+navbar_name: ""
 
 positions:
 - name: MSc Computer Engineering
@@ -48,8 +48,6 @@ experience:
 
 awards:
 - name: >-
-  Emerging Leaders in the Americas Program 2025-26 - Global Affairs Canada </br>
+  Emerging Leaders in the Americas Program 2025-26 - Global Affairs Canada <br/>
   One of the 100 applicants selected from more than 40 countries of Latin America and The Caribbean to support the next generations of Leaders.
-        
-
-  date: 2025
+  date: "2025"
