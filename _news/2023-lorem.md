@@ -1,4 +1,4 @@
 ---
-title: Accepted on M. Sc in Computer Engineering program at UTFSM, Chile.
-date: 2025-03-12 00:01:00 +0800
+title: 🎓 Proud!, Accepted into the M.Sc. in Computer Engineering program at UTFSM, Chile.
+date: 2023-03-01 00:01:00 +0800
 ---
