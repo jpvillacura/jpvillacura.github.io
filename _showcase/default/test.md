@@ -1,13 +1,12 @@
 ---
 show: true
 width: 8
-date: 2025-01-12 00:01:00 +0800
+date: 2025-08-13 00:01:00 +0800
 ---
 
 <div class="p-4">
   <h2>Research Stay at Queen's University</h2>
   <hr />
-
   <p>
     I am currently undertaking a six-month research stay at the
     <strong>Queen’s Reliable Software Technology (QRST) Group</strong> at
@@ -24,10 +23,8 @@ date: 2025-01-12 00:01:00 +0800
       style="max-width: 70%; height: auto;"
     />
   </div>
-
   <p>
-    My work focuses on blockchain and distributed systems research,
-    including rational mining models, smart contracts, and
-    system-level security considerations.
+    My research focuses on blockchain technologies. I am working on developing a framework for rational mining in proof-of-work blockchain networks. 
+    Kingston is a beautiful city and I like the vibe of students here.  #GoGAELS
   </p>
 </div>
