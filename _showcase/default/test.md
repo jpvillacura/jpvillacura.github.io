@@ -14,8 +14,8 @@ date: 2025-01-12 00:01:00 +0800
   </p>
 
   <img
-    src="/assets/photos/Queens_stand.jpg"
-    alt="Blockchain research"
+    src="/assets/photos/Queens_stand"
+    alt="Research Stay in Queen's University."
     class="img-fluid rounded my-3"
   />
 
