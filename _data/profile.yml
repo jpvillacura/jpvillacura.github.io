@@ -47,17 +47,17 @@ education:
 
 experience:
  - name: Universidad Técnica Federico Santa María
-   logo: /assets/imag es/badges/utfsm_logo
-   position: Lecturer
-   date: Mar. 2026 - Present.
+  logo: /assets/images/badges/utfsm_logo
+  position: Lecturer
+  date: Mar. 2026 - Present.
  - name: Queen's University - QRST
-   logo: /assets/images/badges/queens_logo2.png
-   position: Visiting Researcher Student
-   date: Aug. 2025 - Jan. 2026
+  logo: /assets/images/badges/queens_logo2.png
+  position: Visiting Researcher Student
+  date: Aug. 2025 - Jan. 2026
 - name: Technovation Girls Chile
-   logo: /assets/images/badges/technovaion.png
-   position: Mentor
-   date: Jan. 2025 - Present.
+  logo: /assets/images/badges/technovaion.png
+  position: Mentor
+  date: Jan. 2025 - Present.
 
 awards:
 - name: >-
