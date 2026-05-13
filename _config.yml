@@ -36,7 +36,7 @@ plugins:
 # timezone: Asia/Shanghai
 
 collections:
-  - projects
-  - publications
-  - news
-  - showcase
+  projects:
+  publications:
+  news:
+  showcase:
