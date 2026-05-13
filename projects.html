@@ -2,8 +2,8 @@
 layout: default
 title: Projects
 navbar_title: Projects
+permalink: /projects/
 ---
-
 {% assign projects_by_year = site.projects | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
 
 <div class="row">
